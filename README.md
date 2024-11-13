@@ -1,6 +1,6 @@
 # WiCSGit
 Practice for Github
-
+Test
 → Find the GitHub Repository
 → Make a new branch through GitHub
 → Pull code base to local machine
